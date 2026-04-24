@@ -1,0 +1,7 @@
+{
+  "lambda": 0.001,
+  "final_accuracy": 47.5,
+  "final_sparsity": 58.099579489198916,
+  "epochs": 20,
+  "temperature": 1.0
+}
